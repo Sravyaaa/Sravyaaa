@@ -7,7 +7,7 @@ Hi there, I'm Sravya! 👋
 🎓 Master’s in Data Analytics @ Clark University 
 🌍 Worcester, MA 
 📫 Email: mksravya29@gmail.com 
-🔗 LinkedIn | GitHub
+🔗 LinkedIn - https://www.linkedin.com/in/sravya-kasturi/ 
 
 My Skills
 
@@ -26,3 +26,11 @@ AWS (Lambda, EC2, SageMaker, S3, Glue, Kinesis) Azure (Data Factory, Synapse, 
 Let's Connect!
 
 I’m always open to collaborating on AI/ML initiatives, data science projects, and impactful open-source contributions. Feel free to connect!
+
+Let's Connect
+Email: mksravya29@gmail.com 
+Linkedin: https://www.linkedin.com/in/sravya-kasturi/ 
+
+I'm always eager to learn, collaborate, and develop data-driven solutions that make a real impact. Feel free to explore my repositories and connect with me! Let’s build something amazing together!
+
+You can explore more of my work by visiting my [Github] (https://github.com/Sravyaaa?tab=repositories)
