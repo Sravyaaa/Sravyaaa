@@ -3,7 +3,12 @@
 I’m an AI architect, data analyst, and researcher specializing in machine learning, deep learning, MLOps, and scalable AI systems. With a strong passion for Generative AI, large language models (LLMs), and intelligent applications, I focus on designing real-world AI solutions that address complex challenges with efficiency and impact.
 Hi there, I'm Sravya! 👋
 
-📊 Data Analyst | AI Researcher | ML Engineer 🎓 Master’s in Data Analytics @ Clark University 🌍 Worcester, MA 📫 Email: mksravya29@gmail.com 🔗 LinkedIn | GitHub
+📊 Data Analyst | AI Researcher | ML Engineer
+🎓 Master’s in Data Analytics @ Clark University 
+🌍 Worcester, MA 
+📫 Email: mksravya29@gmail.com 
+🔗 LinkedIn | GitHub
+
 My Skills
 
 AI & Machine Learning
