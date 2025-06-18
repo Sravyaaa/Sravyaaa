@@ -25,11 +25,6 @@ Cloud
 AWS (Lambda, EC2, SageMaker, S3, Glue, Kinesis) Azure (Data Factory, Synapse, Functions) CI/CD, Docker, Kubernetes, Terraform, Serverless Framework
 Let's Connect!
 
-I’m always open to collaborating on AI/ML initiatives, data science projects, and impactful open-source contributions. Feel free to connect!
-
-Let's Connect
-Email: mksravya29@gmail.com 
-Linkedin: https://www.linkedin.com/in/sravya-kasturi/ 
 
 I'm always eager to learn, collaborate, and develop data-driven solutions that make a real impact. Feel free to explore my repositories and connect with me! Let’s build something amazing together!
 
