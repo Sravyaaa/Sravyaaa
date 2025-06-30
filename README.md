@@ -6,7 +6,7 @@ Hi there, I'm Sravya! 👋
 📊 Data Analyst | AI Researcher | ML Engineer
 🎓 Master’s in Data Analytics @ Clark University 
 🌍 Worcester, MA 
-📫 Email: mksravya29@gmail.com 
+📫 Email: kasturisravya11@gmail.com 
 🔗 LinkedIn - https://www.linkedin.com/in/sravya-kasturi/ 
 
 My Skills
