@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-I'm an AI architect, data analyst, and researcher specializing in machine learning, deep learning, MLOps, and scalable AI systems. I’m passionate about building real-world AI applications and exploring the frontier of **Generative AI**, **LLMs**, and **intelligent agents**.
+I'm an Data Engineer, Data analyst, and researcher specializing in machine learning, deep learning, MLOps, and scalable AI systems. I’m passionate about building real-world AI applications and exploring the frontier of **Generative AI**, **LLMs**, and **intelligent agents**.
 
 🎓 Master’s in Data Analytics @ Clark University  
 🌍 Worcester, MA  
