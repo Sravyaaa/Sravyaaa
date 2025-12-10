@@ -20,6 +20,7 @@
 I'm an Data Engineer, Data analyst, and researcher specializing in machine learning, deep learning, MLOps, and scalable AI systems. I’m passionate about building real-world AI applications and exploring the frontier of **Generative AI**, **LLMs**, and **intelligent agents**.
  
 🌍 United States of America 
+
 📫 Email: kasturisravya92@gmail.com  
 🔗 LinkedIn: [sravya-kasturi](https://www.linkedin.com/in/sravya-kasturi/)  
 💻 GitHub: [Sravyaaa](https://github.com/Sravyaaa)
