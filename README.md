@@ -18,10 +18,9 @@
 ### 👩‍💻 About Me
 
 I'm an Data Engineer, Data analyst, and researcher specializing in machine learning, deep learning, MLOps, and scalable AI systems. I’m passionate about building real-world AI applications and exploring the frontier of **Generative AI**, **LLMs**, and **intelligent agents**.
-
-🎓 Master’s in Data Analytics @ Clark University  
-🌍 Worcester, MA  
-📫 Email: kasturisravya11@gmail.com  
+ 
+🌍 United States of America 
+📫 Email: kasturisravya92@gmail.com  
 🔗 LinkedIn: [sravya-kasturi](https://www.linkedin.com/in/sravya-kasturi/)  
 💻 GitHub: [Sravyaaa](https://github.com/Sravyaaa)
 
@@ -78,7 +77,7 @@ I'm an Data Engineer, Data analyst, and researcher specializing in machine learn
 
 I'm always open to collaboration, research opportunities, or just chatting about AI and data. Feel free to explore my repos or reach out — let’s build something impactful together! 😊
 
-📫 Email: kasturisravya11@gmail.com  
+📫 Email: kasturisravya92@gmail.com  
 🔗 LinkedIn: [sravya-kasturi](https://www.linkedin.com/in/sravya-kasturi/)  
 💻 GitHub: [Sravyaaa](https://github.com/Sravyaaa?tab=repositories)
 
